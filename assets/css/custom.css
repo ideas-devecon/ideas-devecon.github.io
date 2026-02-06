@@ -1,0 +1,25 @@
+/* Top navigation bar */
+.site-header {
+  background: #e9f0f7;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+.site-nav {
+  display: flex;
+  gap: 36px;              /* space between menu items */
+  padding: 18px 24px;     /* vertical + horizontal padding */
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.nav-link {
+  color: #163a59;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  padding: 6px 0;         /* adds click area + visual spacing */
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
