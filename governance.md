@@ -50,7 +50,7 @@ For transparency and clarity, all candidates are listed below.
 - Regional Representative  
 - At-Large Member, Board of Directors  
 
-**Website:** https://www.nishithprakash.com/
+**Website:** [https://www.nishithprakash.com/](https://www.nishithprakash.com/)
 
 ---
 
@@ -75,7 +75,7 @@ On the IDEA Board, I would prioritize three areas: building scalable global feed
 - Regional Representative  
 - At-Large Member, Board of Directors  
 
-**Website:** https://npwarn.wixsite.com/warn-lekfuangfu
+**Website:** [https://npwarn.wixsite.com/warn-lekfuangfu](https://npwarn.wixsite.com/warn-lekfuangfu)
 
 ---
 
@@ -95,7 +95,7 @@ I look forward to being part of an open, inclusive, and global organisation that
 - Regional Representative  
 - At-Large Member, Board of Directors  
 
-**Website:** https://sites.google.com/site/abushonchoy/
+**Website:** [https://sites.google.com/site/abushonchoy/](https://sites.google.com/site/abushonchoy/)
 
 ---
 
@@ -117,7 +117,7 @@ If elected, I will work to strengthen IDEA’s mission of inclusive scholarly ex
 - Regional Representative  
 - At-Large Member, Board of Directors  
 
-**Website:** https://sites.google.com/site/ramachandranecon/home
+**Website:** [https://sites.google.com/site/ramachandranecon/home](https://sites.google.com/site/ramachandranecon/home)
 
 ---
 
@@ -139,7 +139,7 @@ I am committed to strengthening PhD training, early-career mentoring, and instit
 - Regional Representative  
 - At-Large Member, Board of Directors  
 
-**Website:** https://sites.google.com/view/abhiroop/home
+**Website:** [https://sites.google.com/view/abhiroop/home](https://sites.google.com/view/abhiroop/home)
 
 ---
 
@@ -177,7 +177,8 @@ If elected, I would work to expand institutional engagement and support early-ca
 **Standing for:**
 - Regional Representative  
 
-**Website:** https://sites.google.com/site/farahziasaid/
+**Website:** [https://sites.google.com/site/farahziasaid/](https://sites.google.com/site/farahziasaid/)
+
 
 ---
 
@@ -216,7 +217,7 @@ I am particularly interested in supporting junior scholars and strengthening reg
 - Regional Representative  
 - At-Large Member, Board of Directors  
 
-**Website:** https://profiles.sydney.edu.au/ashani.amarasinghe
+**Website:** [https://profiles.sydney.edu.au/ashani.amarasinghe](https://profiles.sydney.edu.au/ashani.amarasinghe)
 
 ---
 
@@ -238,7 +239,7 @@ If elected, I would work to amplify underrepresented voices and strengthen early
 - Regional Representative  
 - At-Large Member, Board of Directors  
 
-**Website:** https://aercafrica.org/leadership/prof-abbi-m-kedir/
+**Website:** [https://aercafrica.org/leadership/prof-abbi-m-kedir/](https://aercafrica.org/leadership/prof-abbi-m-kedir/)
 
 ---
 
@@ -260,7 +261,8 @@ If elected, I will work to expand IDEA’s engagement in Africa and promote incl
 - Regional Representative  
 - At-Large Member, Board of Directors  
 
-**Website:** https://willafriedman.com
+**Website:** [https://willafriedman.com](https://willafriedman.com)
+
 
 ---
 
@@ -280,7 +282,7 @@ I would be glad to serve as an IDEA Board member to help build an inclusive orga
 - Regional Representative  
 - At-Large Member, Board of Directors  
 
-**Website:** https://bids.org.bd/page/reasearchers?rid=82
+**Website:** [https://bids.org.bd/page/reasearchers?rid=82](https://bids.org.bd/page/reasearchers?rid=82)
 
 ---
 
