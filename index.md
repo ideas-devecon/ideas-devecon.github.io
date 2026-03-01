@@ -3,7 +3,5 @@
 Welcome to The International Development Economics Association.
 
 ## Quick links
-- [Governance](governance)
-- [Activities](activities)
-- [Membership](membership)
-- [Contact](contact)
+- [Elections to the Board of Directors (2026)](governance)
+
