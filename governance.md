@@ -4,7 +4,6 @@ title: Governance
 permalink: /governance/
 ---
 
-# Governance
 
 ## Elections to the Board of Directors (2026)
 
@@ -16,7 +15,7 @@ These elections are a core element of IDEA’s commitment to transparent,
 inclusive, and representative governance. Members are encouraged to review
 the candidate profiles and statements below before casting their votes.
 
-Some candidates have accepted nominations for more than one position. If one is elected to both positions, you will be assigned the role of Regional Representative.
+Some candidates have accepted nominations for more than one position. If one is elected to both positions, they will be assigned the role of Regional Representative.
 For transparency and clarity, all candidates are listed below.
 
 ---
