@@ -24,6 +24,8 @@ For transparency and clarity, all candidates are listed below.
 ---
 
 ### Tilman Brück
+<img src="/assets/images/candidates/tilman-bruck.jpg" alt="Tilman Brück" class="candidate-photo">
+
 
 **Affiliation:** Humboldt-University of Berlin  
 **Email:** tilman.brueck@hu-berlin.de  
