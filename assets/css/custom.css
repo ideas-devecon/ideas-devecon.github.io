@@ -23,28 +23,34 @@
 .nav-link:hover {
   text-decoration: underline;
 }
-/* =====================================================
-   Candidate layout: text left, photo right
-   ===================================================== */
-
+/* ===== Candidate row layout (text left, photo right) ===== */
 .candidate-row {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
   gap: 24px;
-  margin: 14px 0 6px 0;
+  margin: 18px 0;
 }
 
+/* Left text column */
 .candidate-text {
   flex: 1;
+  min-width: 0;
 }
 
-/* Candidate photo styling */
+/* Right photo column */
+.candidate-photo-wrap {
+  flex: 0 0 auto;
+}
+
+/* Force photo to be small + circular */
 .candidate-photo {
-  width: 24px;
-  height: 24px;
+  width: 110px !important;
+  height: 110px !important;
+  max-width: 110px !important;
+  max-height: 110px !important;
   object-fit: cover;
   border-radius: 50%;
   filter: grayscale(100%);
-  flex-shrink: 0;
+  display: block;
 }
