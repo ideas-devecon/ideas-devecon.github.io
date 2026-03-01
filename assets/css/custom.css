@@ -1,47 +1,25 @@
-/* ===== Color override: black page, gray hero, white text ===== */
-
-/* Entire page background */
-body {
-  background-color: #000000;
-  color: #ffffff;
-}
-
-/* Hero / page header (green-blue rectangle) */
-.page-header {
-  background: #6e6e6e; /* neutral gray */
-  color: #ffffff;
-}
-
-/* Headings */
-h1, h2, h3, h4, h5, h6 {
-  color: #ffffff;
-}
-
-/* Paragraphs, lists, general text */
-p, li, span, div {
-  color: #ffffff;
-}
-
-/* Navigation bar */
+/* Top navigation bar */
 .site-header {
-  background: #000000;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  background: #e9f0f7;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.site-nav {
+  display: flex;
+  gap: 36px;              /* space between menu items */
+  padding: 18px 24px;     /* vertical + horizontal padding */
+  overflow-x: auto;
+  white-space: nowrap;
 }
 
 .nav-link {
-  color: #ffffff;
+  color: #000000;         /* changed to black */
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  padding: 6px 0;         /* adds click area + visual spacing */
 }
 
-/* Links (including Quick links) */
-a {
-  color: #ffffff;
-}
-
-a:hover {
+.nav-link:hover {
   text-decoration: underline;
-}
-
-/* Main content area */
-.main-content {
-  background-color: #000000;
 }
