@@ -13,13 +13,14 @@
 }
 
 .nav-link {
-  color: #163a59;
+  color: #000000;         /* BLACK text */
   text-decoration: none;
   font-weight: 500;
   font-size: 18px;
-  padding: 6px 0;         /* adds click area + visual spacing */
+  padding: 6px 0;         /* click area + spacing */
 }
 
 .nav-link:hover {
   text-decoration: underline;
+  color: #000000;         /* stay black on hover */
 }
