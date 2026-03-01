@@ -43,6 +43,7 @@ For transparency and clarity, all candidates are listed below.
 ---
 
 ### Nishith Prakash
+<img src="/assets/images/candidates/nishith-prakash.webp" alt="nishith-prakash" class="candidate-photo">
 
 **Affiliation:** Northeastern University  
 **Email:** n.prakash@northeastern.edu  
@@ -68,6 +69,7 @@ On the IDEA Board, I would prioritize three areas: building scalable global feed
 
 
 ### Warn N. Lekfuangfu
+<img src="/assets/images/candidates/warn-lekfuangfu.avif" alt="warn-lekfuangfu" class="candidate-photo">
 
 **Affiliation:** Universidad Carlos III de Madrid  
 **Email:** nlekfuan@eco.uc3m.es  
@@ -88,6 +90,7 @@ I look forward to being part of an open, inclusive, and global organisation that
 ---
 
 ### Abu S. Shonchoy
+<img src="/assets/images/candidates/abu-shonchoy.jpg" alt="abu-shonchoy" class="candidate-photo">
 
 **Affiliation:** Florida International University  
 **Email:** parves.shonchoy@gmail.com  
@@ -110,6 +113,7 @@ If elected, I will work to strengthen IDEA’s mission of inclusive scholarly ex
 ---
 
 ### Rajesh Ramachandran
+<img src="/assets/images/candidates/rajesh-ramachandran.jpg" alt="rajesh-ramachandran" class="candidate-photo">
 
 **Affiliation:** Monash University Malaysia  
 **Email:** rajesh.ramachandran@monash.edu  
@@ -132,6 +136,7 @@ I am committed to strengthening PhD training, early-career mentoring, and instit
 ---
 
 ### Abhiroop Mukhopadhyay
+<img src="/assets/images/candidates/abhiroop-mukhopadhyay.png" alt="abhiroop-mukhopadhyay" class="candidate-photo">
 
 **Affiliation:** Indian Statistical Institute (Delhi)  
 **Email:** abhiroop@isid.ac.in  
@@ -154,6 +159,7 @@ If elected, I would work to expand institutional engagement and support early-ca
 ---
 
 ### Tarun Jain
+<img src="/assets/images/candidates/tarun-jain.jpg" alt="tarun-jain" class="candidate-photo">
 
 **Affiliation:** Indian Institute of Management Ahmedabad  
 **Email:** tarunj@iima.ac.in  
@@ -171,6 +177,7 @@ If elected, I would work to expand institutional engagement and support early-ca
 ---
 
 ### Farah Said
+<img src="/assets/images/candidates/farah seid.png" alt="farah seid" class="candidate-photo">
 
 **Affiliation:** Lahore University of Management Sciences  
 **Email:** farah_said@lums.edu.pk  
@@ -193,6 +200,7 @@ I am particularly interested in supporting junior scholars and strengthening reg
 ---
 
 ### Ethan Ligon
+<img src="/assets/images/candidates/ethan-ligon.jpg" alt="ethan-ligon" class="candidate-photo">
 
 **Affiliation:** University of California, Berkeley  
 **Email:** ligon@berkeley.edu  
@@ -210,6 +218,7 @@ I am particularly interested in supporting junior scholars and strengthening reg
 ---
 
 ### Ashani Amarasinghe
+<img src="/assets/images/candidates/ashani-amarasinghe.jpg" alt="ashani-amarasinghe" class="candidate-photo">
 
 **Affiliation:** University of Sydney  
 **Email:** ashani.amarasinghe@sydney.edu.au  
@@ -232,6 +241,7 @@ If elected, I would work to amplify underrepresented voices and strengthen early
 ---
 
 ### Abbi Kedir
+<img src="/assets/images/candidates/abbi-kedir.webp" alt="abbi-kedir" class="candidate-photo">
 
 **Affiliation:** African Economic Research Consortium (AERC)  
 **Email:** abbi.kedir@aercafrica.org  
@@ -254,6 +264,7 @@ If elected, I will work to expand IDEA’s engagement in Africa and promote incl
 ---
 
 ### Willa Friedman
+<img src="/assets/images/candidates/willa-friedman.jpg" alt="willa-friedman" class="candidate-photo">
 
 **Affiliation:** University of Houston  
 **Email:** willa.friedman@gmail.com  
@@ -275,6 +286,7 @@ I would be glad to serve as an IDEA Board member to help build an inclusive orga
 ---
 
 ### Atonu Rabbani
+<img src="/assets/images/candidates/atonu-rabbani.webp" alt="atonu-rabbani" class="candidate-photo">
 
 **Affiliation:** Bangladesh Institute of Development Studies and University of Dhaka  
 **Email:** atonu.rabbani@gmail.com  
